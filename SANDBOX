@@ -1,0 +1,6 @@
+
+    <nft-card
+    contractAddress="0xa342f5d851e866e18ff98f351f2c6637f4478db5"
+    tokenId="53343204100803765692379285688171671302437967278842259121980540727210832568320">
+    </nft-card>
+    <script src="https://unpkg.com/embeddable-nfts/dist/nft-card.min.js"></script>
